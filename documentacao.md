@@ -1,0 +1,1 @@
+Eu adicionei a h3 para que o nome fique o um pouco mais escuro e destacada logo depois adicionei o input type="text" para o vscode intentificar que é o comando de texo e o  placeholder="Digite o seu Nome" para que fique aparecendo para o usuario digitar seu nome e dps coloquei o botao.
